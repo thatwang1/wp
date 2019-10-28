@@ -10,7 +10,7 @@ public class Account  implements Serializable {
 
 
     private Integer id;
-    private String name;
+    private String ame;
     private Double money;
 
     public Integer getId() {
